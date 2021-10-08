@@ -1,1 +1,0 @@
-INSERT INTO room (room_type, room_rent, room_occupant) VALUES ('Double', 500.00, 'Rob Robson');

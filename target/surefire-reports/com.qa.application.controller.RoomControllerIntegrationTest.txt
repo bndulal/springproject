@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.qa.application.controller.RoomControllerIntegrationTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.504 sec - in com.qa.application.controller.RoomControllerIntegrationTest
