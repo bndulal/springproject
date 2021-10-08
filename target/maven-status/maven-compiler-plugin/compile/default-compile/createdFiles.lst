@@ -1,0 +1,6 @@
+com\qa\application\controller\RoomController.class
+com\qa\application\domain\Room.class
+com\qa\application\repo\RoomRepo.class
+com\qa\application\DfeJavaProjectApplication.class
+com\qa\application\exception\RoomNotFoundException.class
+com\qa\application\service\RoomService.class
