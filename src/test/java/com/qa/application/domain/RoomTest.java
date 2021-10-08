@@ -1,5 +1,5 @@
-//package com.qa.application.domain;
-//
-//public class RoomTest {
-//
-//}
+package com.qa.application.domain;
+
+public class RoomTest {
+
+}
