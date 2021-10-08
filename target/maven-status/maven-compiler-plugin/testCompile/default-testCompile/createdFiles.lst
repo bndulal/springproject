@@ -1,0 +1,5 @@
+com\qa\application\domain\RoomTest.class
+com\qa\application\controller\RoomControllerTest.class
+com\qa\application\controller\RoomControllerIntegrationTest.class
+com\qa\application\service\RoomServiceTest.class
+com\qa\application\DfeJavaProjectApplicationTests.class
